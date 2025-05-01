@@ -17,4 +17,11 @@ gets churned at low temperatures.
    avoid scrambling eggs
 5. heat to 83 degrees
 6. $pass$ and cool
-7. $churn$ (follow instructions for specific flavours) 
+7. $churn$ (follow instructions for specific flavours)
+
+# Strawberry and Champagne
+## Ingredients
+- 500g strawberry puree
+- 175g champagne
+- 1 tbsp glucose
+- 1l icecream base

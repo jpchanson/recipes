@@ -3,7 +3,7 @@ authors = ["Jan Hanson"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Recipes"
+title = "A guide to poisoning dinner guests"
 
 [build]
 build-dir = "docs"
