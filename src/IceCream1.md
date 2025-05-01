@@ -25,3 +25,9 @@ gets churned at low temperatures.
 - 175g champagne
 - 1 tbsp glucose
 - 1l icecream base
+
+## Method
+- churn ice cream base until semi set
+- mix together all ingredients except ice cream base
+- add strawberry and champagne mix
+- churn until icecream has correct texture
