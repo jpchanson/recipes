@@ -10,4 +10,9 @@
 - [Biscuit Base(cheesecake)](./BiscuitBase.md)
 - [Tequila Sorbet](SorbetAlcoholic.md)
 - [Sorbet (Green Apple)](SorbetApple.md)
-- 
+- [Sugarwork](Sugarwork.md)
+- [Lemon Gel (component/garnish)](LemonGel.md)
+- [Cheese Souffle](CheeseSouffle.md)
+- [Cracker](Cracker.md)
+- [Mousse (base)](Moussebase.md)
+- [White Chocolate Chantilly](WhiteChocolateChantilly.md)
