@@ -47,3 +47,7 @@
 - [Bannana Bread](./BannanaBread.md)
 - [Sticky Rice](./StickyRice.md)
 - [Beef, Blackberry and ale stew](./BeefBeerBlackberryStew.md)
+- [Morrocan Lamb  Marinade](./MorrocanLambMarinate.md)
+- [Chicken Liver Parfait](./ChickeLiverParfait.md)
+- [Tomato Fondue](./TomatoeFondue.md)
+- [Beer Batter](./BeerBatter.md)
