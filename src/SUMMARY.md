@@ -44,3 +44,6 @@
 - [Fudge Sauce](./FudgeSauce.md)
 - [Malva Pudding](./MalvaPudding.md)
 - [Ginger Biscuits](./GingerBiscuits.md)
+- [Bannana Bread](./BannanaBread.md)
+- [Sticky Rice](./StickyRice.md)
+- [Beef, Blackberry and ale stew](./BeefBeerBlackberryStew.md)
