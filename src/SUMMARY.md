@@ -55,3 +55,6 @@
 - [Beef Cheek Chilli](./BeefCheekChilli.md)
 - [Herb Gnochi](./HerbGnochi.md)
 - [Potato Gnocchi](./PotatoGnocchi.md)
+- [Stir Fry Sauce](./StirFrySauce.md)
+- [Kerrie Sousaties](./KerrieSousaties.md)
+- [Bread Dough (almost sourdough)](./BreadDough_almost_sourdough.md)
