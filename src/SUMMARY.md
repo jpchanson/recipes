@@ -51,3 +51,7 @@
 - [Chicken Liver Parfait](./ChickeLiverParfait.md)
 - [Tomato Fondue](./TomatoeFondue.md)
 - [Beer Batter](./BeerBatter.md)
+- [Gherkin & Caper Burger](./GherkinCaperBurger.md)
+- [Beef Cheek Chilli](./BeefCheekChilli.md)
+- [Herb Gnochi](./HerbGnochi.md)
+- [Potato Gnocchi](./PotatoGnocchi.md)
